@@ -1,0 +1,154 @@
+{
+  "main": {
+    "name": "Md Samiullah",
+    "occupation": "Frontend Developer (REACT JS)",
+    "description": "",
+    "image": "ProfileSami.png",
+    "bio": "Hi there! I am Md Samiullah Alam,Bachelor of computer science engineer with a strong education background and experience, Seeking a challenging position in the software field full stack developer( mongoose , express.js, react node.js) for growth with the organization. skilled in designing, programming and testing.. I have developed many personal projects during my learning journey, check them in project section.",
+    "contactmessage": "Hire Me! / Get in touch with me",
+    "email": "samialam680@gmail.com",
+    "phone": "(+91) 7372890117",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "zip": ""
+    },
+    "website": "",
+    "resumedownload":"MD_SAMIULLAH_RESUME.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/md-samiullah-alam-9ab0921a9/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/samiullah680",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "twitter",
+        "url": "",
+        "className": "fa fa-twitter"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Sagar Institute Of Science & Technology Bhopal",
+        "degree": "Bachelor's Degree",
+        "graduated": "jun 2022",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "CEDCOSS Technologies Private Limited",
+        "title": "Software Developer",
+        "years": "February 2022 - Present",
+        "description": "Working Of  SR Software Developer In Multiple Projects Like:- Shopify Marketplace, Integration BWP, Admin Panel, Multivador Marketplace."
+      },
+      {
+        "company": "Netlink Software P.V.T",
+        "title": "Full-Stack And MERN-Stack Developer",
+        "years": "July 2021 - December 2021",
+        "description":"Working with the team to resolve the issues related to the project environment"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "75%"
+      },
+      {
+        "name": "Web Development",
+        "level": "80%"
+      },
+      {
+        "name": "NodeJs / ExpressJs",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "50%"
+      },
+      {
+        "name": "Python",
+        "level": "60%"
+      },
+      {
+        "name": "Git",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Backend API Node Express Mongoose",
+        "category": "Backend API Node Express Mongoose",
+        "image": "Mode.jpeg",
+        "url": "https://github.com/samiullah680/shop-management"
+      },
+      {
+        "title": "Expence Manager",
+        "category": "ReactJS,JavaScript",
+        "image": "ExpenceManager.png",
+        "url": "https://main--expense-calculatot.netlify.app/"
+      },
+      {
+        "title": "Wetharia - The Weather App",
+        "category": "ReactJS Javascript",
+        "image": "WeatherApp.png",
+        "url": "https://inquisitive-conkies-e71c39.netlify.app/"
+      },
+      {
+        "title": "Toy Shop Website",
+        "category": "ReactJs,Redux,Firebase",
+        "image": "ToyShopWebsite.png",
+        "url": "https://lighthearted-tulumba-2c6b74.netlify.app/product"
+      },
+
+      {
+        "title": "Friends Communication Website",
+        "category": "ReactJs Express js",
+        "image": "Facebook.png",
+        "url": "https://super-fudge-b27c32.netlify.app/Home"
+      },
+      {
+        "title": "Scientific Calculator",
+        "category": "Javascript",
+        "image": "calc.png",
+        "url": "https://scientific-calculator-v.netlify.app/"
+      },
+      {
+        "title": "Swatch Generator",
+        "category": "ReactJs",
+        "image": "color.jfif",
+        "url": "https://colour-generator-v1.netlify.app/"
+      },
+      {
+        "title": "Random Password Generator",
+        "category": "Javascript",
+        "image": "RPG1.png",
+        "url": "https://random-password-generator-v.netlify.app/"
+      }
+    
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
